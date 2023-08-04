@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+- 📚 Em constante aprendizado ...
 
 <div align="center">
   <a href="https://github.com/raul-nemezio">
